@@ -10,7 +10,7 @@ import IframePreview from '../previews/IframePreview'
 // Web preview configuration
 const remoteURL = ''
 const localURL = 'http://localhost:8000'
-const previewURL =
+const previewURL ='https://beyond-flavour-web-preview-4281662337.gtsb.io/'
   window.location.hostname === 'localhost' ? localURL : remoteURL
 
 export const getDefaultDocumentNode = props => {
