@@ -33,10 +33,24 @@ export default {
             value: 'https://github.com/hutingerica/Beyond-Flavour-SanityCMS',
             category: 'Code'
           },
-          { title: 'Frontend', value: '', category: 'apps' }
+          { title: 'Frontend', value: '', category: 'apps' },
+
+          {
+            title: 'Netlify Frontend',
+            value: 'https://beyond-flavour-cms-studio.netlify.app',
+            category: 'apps'
+          },
+
+          {
+            title: 'Gatsby Preview Frontend',
+            value: 'https://beyond-flavour-web-preview-4281662337.gtsb.io/',
+            category: 'apps'
+          },
         ]
       }
     },
+
+
     { name: 'project-users', layout: { height: 'auto' } },
     {
       name: 'document-list',
