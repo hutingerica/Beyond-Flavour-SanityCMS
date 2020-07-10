@@ -33,7 +33,6 @@ export default {
             value: 'https://github.com/hutingerica/Beyond-Flavour-SanityCMS',
             category: 'Code'
           },
-          { title: 'Frontend', value: '', category: 'apps' },
 
           {
             title: 'Netlify Frontend',
@@ -51,7 +50,7 @@ export default {
     },
 
 
-    { name: 'project-users', layout: { height: 'auto' } },
+    { name: 'project-users', layout: { height: 'small' } },
     {
       name: 'document-list',
       options: { title: 'Recent blog posts', order: '_createdAt desc', types: ['post'] },
