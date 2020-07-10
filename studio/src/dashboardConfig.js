@@ -48,13 +48,12 @@ export default {
         ]
       }
     },
-
-
-    { name: 'project-users', layout: { height: 'small' } },
+    
     {
       name: 'document-list',
       options: { title: 'Recent blog posts', order: '_createdAt desc', types: ['post'] },
       layout: { width: 'medium' }
-    }
+    },
+    { name: 'project-users', layout: { width: 'small' } }
   ]
 }

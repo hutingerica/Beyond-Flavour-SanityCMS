@@ -9,9 +9,9 @@
 :root {
   /* Brand colors */
   --brand-primary: var(--brand-primary);
-  --brand-primary--inverted: #ffffff;
+  --brand-primary--inverted: #ececec;
   --brand-secondary: #efefef;
-  --brand-secondary--inverted: #fffd6d;
+  --brand-secondary--inverted: rgb(22, 22, 22);
 
   /* Typography */
   --font-family-sans-serif: 'Nunito';
