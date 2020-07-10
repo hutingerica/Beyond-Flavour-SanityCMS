@@ -2,7 +2,7 @@ export default {
   widgets: [
     { name: 'structure-menu' },
     {
-      name: 'project-info',
+      name: 'project-info', layout: { width: 'medium' }, 
       options: {
         __experimental_before: [
           {
