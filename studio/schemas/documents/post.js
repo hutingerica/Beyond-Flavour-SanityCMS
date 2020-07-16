@@ -55,6 +55,7 @@ export default {
       title: 'Categories',
       of: [
         {
+          // A reference is a way to point to another document
           type: 'reference',
           to: {
             type: 'category'
