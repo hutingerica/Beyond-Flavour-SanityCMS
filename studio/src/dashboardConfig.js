@@ -42,7 +42,7 @@ export default {
 
           {
             title: 'Gatsby Preview ',
-            value: 'https://beyond-flavour-web-preview-4281662337.gtsb.io/',
+            value: 'https://beyond-flavour-4738285238.gtsb.io/',
             category: 'apps'
           },
         ]

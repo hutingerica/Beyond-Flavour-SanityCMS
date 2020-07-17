@@ -8,7 +8,7 @@ import {
 import IframePreview from '../previews/IframePreview'
 
 // Web preview configuration
-const remoteURL = 'https://beyond-flavour-web-preview-4281662337.gtsb.io'
+const remoteURL = 'https://beyond-flavour-4738285238.gtsb.io/'
 const localURL = 'http://localhost:8000'
 const previewURL = window.location.hostname === 'localhost' ? localURL : remoteURL
 
